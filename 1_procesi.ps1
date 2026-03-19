@@ -1,5 +1,4 @@
 $limits = 150MB
-
 $failaCels = "$env:USERPROFILE/Documents/LielieProcesi.csv"
 
 Get-Process |
